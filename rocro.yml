@@ -1,0 +1,4 @@
+docstand:
+  sphinx:
+    machine:
+      cpu: 4.0
